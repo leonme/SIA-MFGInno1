@@ -1,0 +1,5 @@
+
+**** Error file opened at 20151211 081728 Coordinated Universal Time Rel. 3.0.13 (2015-04-27) [721.510]
+Error:  >Fri Dec 11 08:17:28,018<    >RfcGetException rc (7) message: Invalid subfield access: Offset too large
+<RfcGetException
+
